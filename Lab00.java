@@ -28,7 +28,7 @@ public class Lab00
 		
 		
 		// a counting for loop
-	    for (int i = 0; i < 12; i++){
+	    for (int i = 1; i < 11; i++){
 		    System.out.print(i + " ");
 		}
 		System.out.println();
